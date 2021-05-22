@@ -12,5 +12,6 @@
 ### Мои контакты:
 
 Telegram - https://t.me/anrirey
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=droni90&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droni90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
